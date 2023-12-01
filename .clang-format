@@ -1,0 +1,4 @@
+BasedOnStyle: Microsoft
+IndentWith: 4
+
+InsertNewlineAtEOF: True
